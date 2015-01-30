@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on I like to explain things </title>
+      <title>Mine on I like to explain things </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://jpeeler.github.io/index.xml/</link>
+    <link>http://localhost:1313/tags/mine/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>memory</title>
-      <link>http://jpeeler.github.io/memory/</link>
+      <link>http://localhost:1313/memory/</link>
       <pubDate>Tue, 27 Jan 2015 11:05:52 EST</pubDate>
       
-      <guid>http://jpeeler.github.io/memory/</guid>
+      <guid>http://localhost:1313/memory/</guid>
       <description>
 
 &lt;p&gt;I took a course from coursera on &lt;a href=&#34;https://www.coursera.org/course/learning&#34;&gt;&amp;ldquo;learning how to learn&amp;rdquo;&lt;/a&gt;.
@@ -246,59 +246,6 @@ required.&lt;/p&gt;
 
 &lt;p&gt;Whew! That turned out to be way longer than I thought. I think it&amp;rsquo;s a good
 summary of the course though and hopefully is a good reference.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>first blog post</title>
-      <link>http://jpeeler.github.io/first/</link>
-      <pubDate>Fri, 02 Jan 2015 01:57:37 EST</pubDate>
-      
-      <guid>http://jpeeler.github.io/first/</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;New year, new blog, new technology&lt;/h2&gt;
-
-&lt;p&gt;This is my first post rendered using &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. I chose it
-over &lt;a href=&#34;http://blog.getpelican.com/&#34;&gt;Pelican&lt;/a&gt; because:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Hugo has a built-in webserver (&lt;a href=&#34;http://gohugo.io/overview/usage&#34;&gt;hugo server&lt;/a&gt;
-serves content on localhost:1313).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hugo has an autorefresh (called &lt;a href=&#34;http://gohugo.io/extras/livereload&#34;&gt;live reload&lt;/a&gt;)
-feature that not only detects local changes, but reloads the browser content
-automatically.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hugo is supposedly the fastest renderer around, though apparently using
-server-side &lt;a href=&#34;http://gohugo.io/extras/highlighting/&#34;&gt;syntax highlighting&lt;/a&gt; may
-slow down things a bit.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;According to &lt;a href=&#34;https://www.staticgen.com&#34;&gt;https://www.staticgen.com&lt;/a&gt; and &lt;a href=&#34;https://staticsitegenerators.net&#34;&gt;https://staticsitegenerators.net&lt;/a&gt;,
-Hugo is among the top ten static site generators. Having a strong community is
-important.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;I really like some of the tool choices used for the Hugo infrastructure,
-such as using &lt;a href=&#34;http://www.discourse.org/&#34;&gt;Discourse&lt;/a&gt; for discussion.
-Everything just feels very modern, for instance check out the
-&lt;a href=&#34;http://discuss.gohugo.io/t/how-about-an-irc-channel/416&#34;&gt;views about communication&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;One blog I read mentioned lack of pagination being a showstopper, but it&amp;rsquo;s
-supposed to be finished for the next release. I feel confident by the time
-I&amp;rsquo;ll need it the &lt;a href=&#34;https://github.com/spf13/hugo/issues/96&#34;&gt;enhancement&lt;/a&gt; will be finished.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The ease of &lt;a href=&#34;https://github.com/spf13/hugo#installing-hugo-binary&#34;&gt;installation&lt;/a&gt;
-can&amp;rsquo;t be beat. I definitely prefer distro packaging in general, but a single
-binary that is built for all the major platforms is pretty easy to use.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I realize that this list isn&amp;rsquo;t all that comprehensive, but perhaps it&amp;rsquo;s of
-some usefulness! I&amp;rsquo;ve wanted to go the static generation route for a while
-now. Mostly so that I can generate content offline using markdown. I think the
-page speed and nice theming is an added bonus.&lt;/p&gt;
-
-&lt;p&gt;I found this &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;markdown guide&lt;/a&gt;
-to be helpful.&lt;/p&gt;
 </description>
     </item>
     
