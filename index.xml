@@ -1,305 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on I like to explain things </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://jpeeler.github.io/index.xml/</link>
+    <title>I like to explain things</title>
+    <link>http://jpeeler.github.io/</link>
+    <description>Recent content on I like to explain things</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jan 2015 11:05:52 -0500</lastBuildDate>
     
+	<atom:link href="http://jpeeler.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Tue, 27 Jan 2015 11:05:52 EST</updated>
     
     <item>
       <title>memory</title>
       <link>http://jpeeler.github.io/memory/</link>
-      <pubDate>Tue, 27 Jan 2015 11:05:52 EST</pubDate>
+      <pubDate>Tue, 27 Jan 2015 11:05:52 -0500</pubDate>
       
       <guid>http://jpeeler.github.io/memory/</guid>
-      <description>
-
-&lt;p&gt;I took a course from coursera on &lt;a href=&#34;https://www.coursera.org/course/learning&#34;&gt;&amp;ldquo;learning how to learn&amp;rdquo;&lt;/a&gt;.
-I was planning on writing about it since it&amp;rsquo;s universally applicable to all
-who wish to learn about how the brain works. Turns out it fit the criteria for
-the final assignment, so double win. Since I took notes as I went through the
-course, the text is more like summarized notes. Enjoy!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Thinking modes&lt;/h2&gt;
-
-&lt;p&gt;There are two different types of brain processing that occur almost mutually
-exclusively. The first is called &amp;ldquo;focused&amp;rdquo; and occurs when one is processing
-concrete thoughts; it&amp;rsquo;s also closely associated with intense concentration.
-The other is called &amp;ldquo;diffused&amp;rdquo; and occurs when new problems are encountered or
-abstract ideas are involved. The diffused mode occurs when thoughts are free
-to wonder, such as while taking a walk.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s easier to create and be creative in diffused mode. One way to make sure
-you&amp;rsquo;re in diffused mode is to make sure to NOT follow an outline. A mind map
-can be a good alternative.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Storage modes&lt;/h2&gt;
-
-&lt;p&gt;Working memory can only store about four things (which is smaller than I had
-last been told). Long term memory is like a warehouse and sometimes can
-require time to &amp;ldquo;look things up&amp;rdquo;. This is why sometimes you&amp;rsquo;ll remember things
-much later than when you were trying to recall them.&lt;/p&gt;
-
-&lt;p&gt;Both modes are strengthened by practice and repetition, called spaced
-repetition. The passage of time and repeated learning allows time for the new
-neural structures to form, which allows a memory to persist. Persistence is
-also improved by a good night&amp;rsquo;s sleep as that is the time the brain uses to
-rid itself of toxins and restructure memories.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Executing learning&lt;/h2&gt;
-
-&lt;p&gt;Because the brain uses two different memory modes, going back and forth
-between words and images is one method of activating both areas of the brain.
-Another similar concept is known as &lt;a href=&#34;https://www.youtube.com/watch?v=0fKBhvDjuy0&#34;&gt;&amp;ldquo;powers of ten&amp;rdquo;&lt;/a&gt;,
-which involves changing the perspective by zooming in and out by powers of
-ten. Of course, it&amp;rsquo;s the perspective change that&amp;rsquo;s important rather than the
-magnitude of difference.&lt;/p&gt;
-
-&lt;p&gt;A practical example of chaging perspective is a painter putting a dot of paint
-on a canvas and then taking a few steps back to see how it looks a little
-farther away. Another example is simply shifting from writing sitting down to
-standing up.&lt;/p&gt;
-
-&lt;p&gt;Procrastination can hinder learning, but it&amp;rsquo;s important to remember that the
-pain associated with starting an unpleasant activitity will go away shortly
-after beginning. The pomodoro technique was created to help combat putting
-things off by providing a burst of productivity while also giving a reward for
-completion at the end. (I can&amp;rsquo;t help but think of the phrase &amp;ldquo;just do it&amp;rdquo;.)&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_3&#34;&gt;How memories are formed&lt;/h2&gt;
-
-&lt;p&gt;A chunk is a piece of information bound together in the brain. Chunks are
-built by focused attention, understanding, and practice.&lt;/p&gt;
-
-&lt;p&gt;Bottom up learning as well as gaining a high level overview is best for
-complete subject mastery. Applying these two concepts together is what forms
-the context to put all the individual chunks together, sort of like putting
-together a puzzle. Understanding is like superglue that helps hold the
-underlying memory traces together. Simply trying to help recall what you have
-learned also helps understanding.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_4&#34;&gt;Determining subject mastery&lt;/h2&gt;
-
-&lt;p&gt;Practicing and recall are the best methods of determining level of competence.
-Both methods should be done in different settings to ensure the learned
-material is not dependent on subconscience traits of a given place. Testing
-oneself and practicing the hard problems are a great way to ensure you don&amp;rsquo;t
-prematurely believe that you have mastered the material.&lt;/p&gt;
-
-&lt;p&gt;A benefit of subject mastery is that the chunks all become weaved together
-such that they only take one position in working memory. The information
-becomes compressed together such that more information is available for recall
-with mastered content.&lt;/p&gt;
-
-&lt;p&gt;Some general notes about mastery:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;One should not be discouraged if something doesn&amp;rsquo;t come easily. Persistence
-is more important than being intelligent!&lt;/li&gt;
-&lt;li&gt;Diving into something completely randomly isn&amp;rsquo;t the most effective.&lt;/li&gt;
-&lt;li&gt;Overlearning is effective if spaced out, but don&amp;rsquo;t trick yourself into doing
-so with the easiest material and think it means full mastery has occurred.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The first principle is that you must not fool yourself - and you are the
-easiest person to fool. - Richard Feynman&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Interweaving between concepts, ideas, and disciplines allows creativity and
-flexbility.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_5&#34;&gt;Defeating procrastination&lt;/h2&gt;
-
-&lt;p&gt;One way to achieve tackling procrastination is to focus on the process rather
-than the product. Forming good habits surrounding your learning is key, which
-are made up of several parts:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The cue - a stimulus that may cause your attention to divert&lt;/li&gt;
-&lt;li&gt;The routine - how you feel and react while learning&lt;/li&gt;
-&lt;li&gt;The reward - the emotional payoff for completing an amount of work (Also,
-the better you get at something, the more you will enjoy it.)&lt;/li&gt;
-&lt;li&gt;The belief - basically, believing success is possible&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;toc_6&#34;&gt;Good habits to utilize&lt;/h2&gt;
-
-&lt;p&gt;Using a planner journal, both for weekly and daily tasks. Doing so will free
-brain power to work on actual tasks rather than the task list.&lt;/p&gt;
-
-&lt;p&gt;Plan your quitting time, it&amp;rsquo;s as important as planning your start time.&lt;/p&gt;
-
-&lt;p&gt;Do the hardest things in the day first, also described as eating your frogs
-first.&lt;/p&gt;
-
-&lt;p&gt;Delay rewards until you finish a given task.&lt;/p&gt;
-
-&lt;p&gt;Stop trying to be impressive, just strive for clarity. Ironically, when
-focusing on just being clear, the work ends up being impressive.&lt;/p&gt;
-
-&lt;p&gt;Every once in a while, do something different such as a walk around the block.
-Especially when you get stuck on something.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_7&#34;&gt;Memory techniques (more executing learning)&lt;/h2&gt;
-
-&lt;p&gt;Handwriting can be a good technique to utilize as the hand motions involved
-assist with recall. Also, associating concepts with images can help as well.
-Sometimes the best images to assist with memorization are the more strange
-ones. A &amp;ldquo;memory palace&amp;rdquo; is a specific mental model of placing images in a
-place, such as your house to help group things.&lt;/p&gt;
-
-&lt;p&gt;Another approach for creating meaning groups of things is to use a nmeumonic,
-such as the first letter of each word to make a silly sentence. Metaphors or
-analogies work well too. Sometimes it can be helpful to pretend you are the
-concept you are trying to understand, for example an atom of copper.&lt;/p&gt;
-
-&lt;p&gt;All of the above practices combat Einstellung - being blocked by thinking
-about a problem in the wrong way.&lt;/p&gt;
-
-&lt;p&gt;Nobody is actually good at multitasking. If you think you are, you&amp;rsquo;re worse at
-it then you think.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_8&#34;&gt;Problem solving&lt;/h2&gt;
-
-&lt;p&gt;One way to look at a problem is in parts by breaking it down. Think about:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;What are you trying to do?&lt;/li&gt;
-&lt;li&gt;What do you want to achieve?&lt;/li&gt;
-&lt;li&gt;What information do you have?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A given problem does not have to be done quickly. Lastly, it&amp;rsquo;s important to
-know there&amp;rsquo;s no reason to panic.&lt;/p&gt;
-
-&lt;p&gt;Know that solving the problem is not the hard part, it&amp;rsquo;s getting your mind
-familiar enough with the problem to get ready to solve it.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_9&#34;&gt;Differences between people&lt;/h2&gt;
-
-&lt;p&gt;Earlier it was said that people have around four &amp;ldquo;slots&amp;rdquo; in working memory.
-However, not everybody is the same and some may have less than others. But the
-less areas of working memory that one has, the easier is to move into diffused
-mode and be more creative. The same trade off is true for those who have can
-hold more in their working memory. These people are able to focus on more
-concepts at a time, but aren&amp;rsquo;t able to as easily enter into diffused mode.&lt;/p&gt;
-
-&lt;p&gt;Everybody&amp;rsquo;s natural learning ability is different, but changing the way you
-think can allow you to achieve that which even natural born geniouses don&amp;rsquo;t.&lt;/p&gt;
-
-&lt;p&gt;People also grow at different rates. The myelin sheath is a fatty insulation
-on the neuron that helps signal mood more quickly. In some people it doesn&amp;rsquo;t
-fully develop until they reach their 20s.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_10&#34;&gt;Ensuring sufficient preparation for a test&lt;/h2&gt;
-
-&lt;p&gt;Many others were included in the course, but I thought these were the most
-important:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Did you make a serious effort to understand the text?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Did you work on the problems individually?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Did you work with classmates on homework problems and contribute actively
-to the discusion?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Did you consult with the instructor when you were having trouble?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Did you understand ALL of the homework problems?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Did you get a reasonable amount of sleep?&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Sounds like common sense, but I wish somebody had told me these things while I was
-still in school!&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_11&#34;&gt;During the exam&lt;/h2&gt;
-
-&lt;p&gt;Revisiting your work and not powering through is a way of allowing your entire
-brain to work, giving the right hemisphere a chance to work. The left
-hemisphere can quite often be overly confident and provides the analytical way
-of thinking.&lt;/p&gt;
-
-&lt;p&gt;Start on a hard problem, but then abort it so you can let the diffused mode
-work on it some.&lt;/p&gt;
-
-&lt;p&gt;Have a contigency plan for the worst case scenario. This allows your mind to
-enter without worry knowing failure isn&amp;rsquo;t the end of the world.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_12&#34;&gt;Final advice&lt;/h2&gt;
-
-&lt;p&gt;Study the great people of your field or whatever you&amp;rsquo;re trying to accomplish.&lt;/p&gt;
-
-&lt;p&gt;A book that may be worth reading:
-&lt;a href=&#34;http://www.amazon.com/Fluent-Months-Anyone-Language-Anywhere/dp/0062282697&#34;&gt;Fluent in 3 MONTHS&lt;/a&gt;
-- describes how to learn a new language faster than what most believe is
-required.&lt;/p&gt;
-
-&lt;h2 id=&#34;toc_13&#34;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Whew! That turned out to be way longer than I thought. I think it&amp;rsquo;s a good
-summary of the course though and hopefully is a good reference.&lt;/p&gt;
-</description>
+      <description>I took a course from coursera on &amp;ldquo;learning how to learn&amp;rdquo;. I was planning on writing about it since it&amp;rsquo;s universally applicable to all who wish to learn about how the brain works. Turns out it fit the criteria for the final assignment, so double win. Since I took notes as I went through the course, the text is more like summarized notes. Enjoy!
+Thinking modes There are two different types of brain processing that occur almost mutually exclusively.</description>
     </item>
     
     <item>
       <title>first blog post</title>
       <link>http://jpeeler.github.io/first/</link>
-      <pubDate>Fri, 02 Jan 2015 01:57:37 EST</pubDate>
+      <pubDate>Fri, 02 Jan 2015 01:57:37 -0500</pubDate>
       
       <guid>http://jpeeler.github.io/first/</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;New year, new blog, new technology&lt;/h2&gt;
-
-&lt;p&gt;This is my first post rendered using &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. I chose it
-over &lt;a href=&#34;http://blog.getpelican.com/&#34;&gt;Pelican&lt;/a&gt; because:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Hugo has a built-in webserver (&lt;a href=&#34;http://gohugo.io/overview/usage&#34;&gt;hugo server&lt;/a&gt;
-serves content on localhost:1313).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hugo has an autorefresh (called &lt;a href=&#34;http://gohugo.io/extras/livereload&#34;&gt;live reload&lt;/a&gt;)
-feature that not only detects local changes, but reloads the browser content
-automatically.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hugo is supposedly the fastest renderer around, though apparently using
-server-side &lt;a href=&#34;http://gohugo.io/extras/highlighting/&#34;&gt;syntax highlighting&lt;/a&gt; may
-slow down things a bit.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;According to &lt;a href=&#34;https://www.staticgen.com&#34;&gt;https://www.staticgen.com&lt;/a&gt; and &lt;a href=&#34;https://staticsitegenerators.net&#34;&gt;https://staticsitegenerators.net&lt;/a&gt;,
-Hugo is among the top ten static site generators. Having a strong community is
-important.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;I really like some of the tool choices used for the Hugo infrastructure,
-such as using &lt;a href=&#34;http://www.discourse.org/&#34;&gt;Discourse&lt;/a&gt; for discussion.
-Everything just feels very modern, for instance check out the
-&lt;a href=&#34;http://discuss.gohugo.io/t/how-about-an-irc-channel/416&#34;&gt;views about communication&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;One blog I read mentioned lack of pagination being a showstopper, but it&amp;rsquo;s
-supposed to be finished for the next release. I feel confident by the time
-I&amp;rsquo;ll need it the &lt;a href=&#34;https://github.com/spf13/hugo/issues/96&#34;&gt;enhancement&lt;/a&gt; will be finished.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The ease of &lt;a href=&#34;https://github.com/spf13/hugo#installing-hugo-binary&#34;&gt;installation&lt;/a&gt;
-can&amp;rsquo;t be beat. I definitely prefer distro packaging in general, but a single
-binary that is built for all the major platforms is pretty easy to use.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I realize that this list isn&amp;rsquo;t all that comprehensive, but perhaps it&amp;rsquo;s of
-some usefulness! I&amp;rsquo;ve wanted to go the static generation route for a while
-now. Mostly so that I can generate content offline using markdown. I think the
-page speed and nice theming is an added bonus.&lt;/p&gt;
-
-&lt;p&gt;I found this &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;markdown guide&lt;/a&gt;
-to be helpful.&lt;/p&gt;
-</description>
+      <description>New year, new blog, new technology This is my first post rendered using Hugo. I chose it over Pelican because:
+ Hugo has a built-in webserver (hugo server serves content on localhost:1313).
+ Hugo has an autorefresh (called live reload) feature that not only detects local changes, but reloads the browser content automatically.
+ Hugo is supposedly the fastest renderer around, though apparently using server-side syntax highlighting may slow down things a bit.</description>
     </item>
     
   </channel>

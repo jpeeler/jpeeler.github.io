@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://jpeeler.github.io/</loc>
-    <lastmod>2015-01-27T11:05:52-05:00</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://jpeeler.github.io/memory/</loc>
@@ -15,6 +10,39 @@
   <url>
     <loc>http://jpeeler.github.io/first/</loc>
     <lastmod>2015-01-02T01:57:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpeeler.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpeeler.github.io/</loc>
+    <lastmod>2015-01-27T11:05:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpeeler.github.io/categories/science/</loc>
+    <lastmod>2015-01-27T11:05:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpeeler.github.io/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpeeler.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpeeler.github.io/categories/technology/</loc>
+    <lastmod>2015-01-02T01:57:37-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
